@@ -158,7 +158,7 @@ Before starting, install the following:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Wire-Network-Devs/Caelix.git
+git clone https://github.com/Wire-Network-TechHub/Caelix.git
 cd Caelix
 ```
 
